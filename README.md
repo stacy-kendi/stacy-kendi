@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Stacy Kendi Ndubai
 - 👀 I’m interested in Technology and Cooking
-- 🌱 I’m currently learning Laravel and JavaScript
+- 📫 I'm a Php/Laravel Developer
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on PHP, Laravel and JavaScript projects
 - 📫 
 
