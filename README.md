@@ -28,7 +28,7 @@ Summary
 - 💞️ I’m looking to collaborate on projects
 - 📫
 
-**Get in Touch**
+**Get in Touch**\
 📧stacykendi57@gmail.com | LinkedIn: [stacy-kendi](https://www.linkedin.com/in/stacy-kendi-85a987138/)
 
 <!---
