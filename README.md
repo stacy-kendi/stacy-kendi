@@ -16,16 +16,16 @@ Linear Regression Prediction of Concrete Data
 
 **Software Developer at StepWise - Zalda Limited**\
 Building of a Learning Management System in Laravel\
-Building of Modules within an ERP System in Laravel\
+Building of Modules within an ERP System in Laravel
 
 **Outside of Technology**\
-🌱 I’m a traveller and your cooking buddy when I am not Debugging\
+🌱 I’m a traveller and your cooking buddy when I am not Debugging
 
 Summary
-- 👀 I’m a FullStack Developer, Pursuing an MSc Software Engineering at Heriot Watt University, Edinburgh\
-- 📫 I'm Interested in Technology with a Keen Interest in Artificial Intelligence\
-- 🌱 I’m a traveller and your cooking buddy when I am not Debugging\
-- 💞️ I’m looking to collaborate on projects\
+- 👀 I’m a FullStack Developer, Pursuing an MSc Software Engineering at Heriot Watt University, Edinburgh
+- 📫 I'm Interested in Technology with a Keen Interest in Artificial Intelligence
+- 🌱 I’m a traveller and your cooking buddy when I am not Debugging
+- 💞️ I’m looking to collaborate on projects
 - 📫
 
 **Get in Touch**
