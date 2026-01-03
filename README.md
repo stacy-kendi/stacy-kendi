@@ -2,11 +2,11 @@
 
 **Experience**
 
-**Masters Program - Projects**
+**Masters Program - Projects**\
 Building a Web Browser in C#\
 Document Analysis in Python\
 ML - Movie Rating Prediction in Python\
-Linear Regression Prediction of Concrete Data\
+Linear Regression Prediction of Concrete Data
 
 **FullStack Developer at Safaricom PLC**\
 **Coding/Development** - Development of systems and automation of processes\
