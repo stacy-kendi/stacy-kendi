@@ -12,7 +12,7 @@ Linear Regression Prediction of Concrete Data
 **Coding/Development** - Development of systems and automation of processes\
 **SRE** - Setting up of monitoring environment for microservices across AWS CloudWatch, ELK and Dynatrace and optimizing incident responses using automated alerting systems\
 **DevOps** - Management of Microservices on Gitlab and Deployment of microservices using CI/CD pipelines both on premise and on Cloud (AWS) including the use of automated CD using flux and deployment strategies such as blue-green deployment strategy. Making use of Infrastructure as Code within the deployment processes\
-**PM** - Coordination of cross-company and cross-regional teams in multi-phase projects from the development stage up to the testing stage\
+**PM** - Coordination of cross-company and cross-regional teams in multi-phase projects from the development stage up to the testing stage
 
 **Software Developer at StepWise - Zalda Limited**\
 Building of a Learning Management System in Laravel\
