@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Stacy Kendi Ndubai, currently a student pursuing my Masters, an MSc in Software Engineering at Heriot Watt University,Edinburgh. My work experience has been focused on FullStack Development with a major focus on Backend development with Laravel, DevOps and Site Reliability Engineering(SRE). Currently as a student, I am majorly focused on learning and seeking ways to integrate AI&ML with Software Engineering and having fun learning about the concepts within the Artificial Intelligence and Machine Learning field.
+👋Hi, I’m Stacy Kendi Ndubai, currently a student pursuing my Masters, an MSc in Software Engineering at Heriot Watt University,Edinburgh. My work experience has been focused on FullStack Development with a major focus on Backend development with Laravel, DevOps and Site Reliability Engineering(SRE). Currently as a student, I am majorly focused on learning and seeking ways to integrate AI&ML with Software Engineering and having fun learning about the concepts within the Artificial Intelligence and Machine Learning field.
 
 **Experience**
 
@@ -29,7 +29,7 @@ Summary
 - 📫
 
 **Get in Touch**
-📧stacykendi57@gmail.com | LinkedIn: stacy-kendi
+📧stacykendi57@gmail.com | LinkedIn: [stacy-kendi](https://www.linkedin.com/in/stacy-kendi-85a987138/)
 
 <!---
 stacy-kendi/stacy-kendi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
