@@ -15,22 +15,21 @@ Cross-Regional Collaboration, Stakeholder Management and Client Communication.
 
 **Recent Projects**\
 
-**In-Progress: Masters Research – Applying AI in Software Engineering in Bug Detection**\ 
+**Masters Research – Applying AI in Software Engineering in Bug Detection**\ 
 Conducting research on applying AI techniques to solve bug detection which is part of the real-world Software 
 Engineering problems as part of my MSc studies. 
-
-**In-Progress: Recommender System**\
-As part of building my skills and transition into Applied AI, I am currently learning about recommender systems 
-as I build a movie recommender system project to enhance my skills in content based filtering recommender systems.
+Repository - https://github.com/stacy-kendi/XAIinJIT-DPModelsMP/tree/implementation
 
 **Coffee Shop Order Processing and Queue Management Simulation System in Java**\ 
 Developed a multi-threaded coffee order processing system in Java implementing the model-view-controller architecture 
 with observer and singleton design patterns while performing unit tests for code quality and maintainability. Collaborated 
 with a team using version control and applying iterative and agile development methods. 
+The Collaboration Repository - https://github.com/Berndoe/order-system
 
 **Neural Networks – Movie Age Rating Prediction Model**\
 Developed a movie age rating prediction model in Python, doing exploratory data analysis and model building using 
 machine learning approaches and development of neural networks. 
+The Collaboration Repository - https://github.com/dmml-heriot-watt-2025-26/group-coursework-infodrillers
 
 
 **FullStack Developer at Safaricom PLC**\
